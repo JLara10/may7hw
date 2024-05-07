@@ -38,3 +38,5 @@ a test has three main parts
 
 
 Unit tests can tell you a percentage of how much material you have tested from your classes. This will help in the future to see what you have tested and what is remaining so you can test as well.
+
+you should have multiple attempts at your test dont stop just because it passed one time its good practice to try multiple times to insure it works and runs properly for multiple examples. 
